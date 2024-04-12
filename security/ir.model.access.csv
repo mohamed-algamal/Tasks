@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_task_one,tasks.task_one,tasks.model_task_one,base.group_user,1,1,1,1
+access_user_line,tasks.user_line,tasks.model_user_line,base.group_user,1,1,1,1
+access_sale_order_page,tasks.sale_order_page,tasks.model_sale_order_page,base.group_user,1,1,1,1

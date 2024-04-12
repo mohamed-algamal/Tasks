@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<odoo>
+    <data>
+        <menuitem id="tasks_root_menu"
+                  name="Tasks"
+                  web_icon="om_hospital,static/description/icon.png"
+                  sequence="0"/>
+
+        <menuitem id="task_one_menu"
+                  name="Task One"
+                  parent="tasks_root_menu"
+                  sequence="0"/>
+    </data>
+</odoo>
